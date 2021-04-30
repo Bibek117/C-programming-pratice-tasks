@@ -27,7 +27,8 @@
 S.N | PROGRAMS
 ----|---------
 1|[Program to print 'Hello world'](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/1\)Basic%20elements%20of%20c/1.c)
-
+2|[Program to display your short biodata using printf statement, (\n)-new line and (\t)-tab](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/1\)Basic%20elements%20of%20c/2.c)
+3|[Comments in C](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/1\)Basic%20elements%20of%20c/3.c)
 
 
 
