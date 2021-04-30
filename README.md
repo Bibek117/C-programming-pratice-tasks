@@ -36,8 +36,16 @@ S.N | PROGRAMS
 8|[program to demostrate use of  typedef keyword](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/1\)Basic%20elements%20of%20c/8.c)
 9|[Program to demostrate use of enum keyword](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/1\)Basic%20elements%20of%20c/9.c)
 10|[program to change temperature from centrigrade to fahrenheit](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/1\)Basic%20elements%20of%20c/10.c)
+<hr/>
 
-
+#### `Input Output functions`
+S.N | PROGRAMS
+----|---------
+1|[program to demostrate formatted Input/Output function  scanf() and printf()](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/2\)Input%20output/1.c)
+2|[program to demostrate  use of getchar(),putchar(),getch(),getche()and putch() functions (Unformatted I/O)](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/2\)Input%20output/2.c)
+3|[program to demostrate puts() and gets() string function](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/2\)Input%20output/3.c)
+4|[programto write date and time in different formats](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/2\)Input%20output/4.c)
+5|[program to write a= 10 and x=11.123456 in different formats](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/2\)Input%20output/5.c)
 
 <hr/>
 
