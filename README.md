@@ -20,7 +20,7 @@
 >- [x] Graphics basic
 <hr/>
 
-# `Practice programs`
+## `Practice programs`
 <hr/>
 <hr/>
 
@@ -66,9 +66,81 @@ S.N | PROGRAMS
 <hr/>
 
 #### `Control statements`
+##### `Decision making`
 S.N | PROGRAMS
 ----|---------
+1|[program to demostrate if statement](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/1\)decision%20making/1.c)
+2|[program to display the entered number is divisible by 5 or not using if-else statement](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/1\)decision%20making/2.c)
+3|[program to take a number and display "welcome the number is divisible by 2 and 3" if the number is even and divisible by 3 else display "Bad luck" using if else](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/1\)decision%20making/3.c)
+4|[C-program to read the values of coefficients of A,B and C of a quadratic equation and find the real roots of the equation.Use if else and if the roots are imaginary display the message "Roots are imaginary" and calculate the imaginary roots too](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/1\)decision%20making/4.c)
+5|[program to take three numbers and display smallest using if..esleif statement ](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/1\)decision%20making/5.c)
+6|[program to take any number and display the digit is one ,two,three or four digit number using if....elseif statement](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/1\)decision%20making/6.c)
+7|[program to take three numbers and disolay the smallest using nested if](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/1\)decision%20making/7.c)
+8|[program to take a number and determine various results The number is divisible by 7 and even or The number is divisible by 7 but odd or The number is not divisible by 7 and even or The number is not divisible by 7 and odd using nested if else](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/1\)decision%20making/8.c)
+
+##### `Loops`
+S.N | PROGRAMS
+----|---------
+1|[program to display your name 10 times using for loop](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/1.c)
+2|[program to display numbers from 5 to 27 using for loop](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/2.c)
+3|[program to display multiplication table of any given number by user using for loop](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/3.c)
+4|[program to print all odd numbers between 70 and 100 using for loop (hint:use if statement also)](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/4.c)
+5|[program to calculate sum of squares of n natural numbers using for loop](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/5.c)
+6|[program to display the factorial of given number by user using for loop](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/6.c)
+7|[write a program that finds the sum of two number until the user wants using while loop](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/7.c)
+8|[program to display even numbers between 1 to 20 in decreasing order](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/8.c)
+9|[program to read number from keyboard until a zero or negative number is entered.Finally calculating the sum and average of entered number using do while loop](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/9.c)
+10|[using nested loop display the multiplication table of 2 to 12](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/10.c)
+11|[Display the pattern using nested for loop](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/11.c)
+12|[Display the pattern using nested for loop](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/12.c)
+13|[Display the pattern using nested for loop](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/13.c)
+14|[Display the pattern using nested for loop](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/14.c)
+15|[Display the pattern using nested for loop](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/15.c)
+16|[program to find the first 7 prime numbers (i.e 2 3 5 7.....)](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/2\)loops/16.c)
+
+##### `Break Continue and goto`
+S.N | PROGRAMS
+----|---------
+1|[program to demostrate use of break statement](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/3\)break%2Ccontinue%20and%20goto/1.c)
+2|[program to demostrate use of continue statement](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/3\)break%2Ccontinue%20and%20goto/2.c)
+3|[Program to test the input number is prime or not](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/3\)break%2Ccontinue%20and%20goto/3.c)
+4|[program to demostrate use of goto statement](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/3\)break%2Ccontinue%20and%20goto/4.c)
+
+##### `Switch statement`
+S.N | PROGRAMS
+----|---------
+1|[program to make a simple arithmetic calculator using character switch ](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/4\)switch/1.c)
+2|[program to take numbers from 1 to 7 and diplay the day ](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/4\)switch/2.c)
+
+##### `Commonly asked`
+S.N | PROGRAMS
+----|---------
+1|[program to find the sum of the digits of the number given by user](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/5\)commonly%20asked/1.c)
+2|[program to find the reverse of number given by user](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/5\)commonly%20asked/2.c)
+3|[Program to check the number is palindrome or not (i.e 121)](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/5\)commonly%20asked/3.c)
+4|[program to convert number from decimal to binary](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/5\)commonly%20asked/4.c)
+5|[program to display fibonacci series to nth position](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/5\)commonly%20asked/5.c)
+6|[program to check armstrong number or not (i.e 153)](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/4\)Control%20statements/5\)commonly%20asked/6.c)
 <hr/>
 
+#### `Arrays`
+S.N | PROGRAMS
+----|---------
+1|[program to demostrate static initilization of 1D array](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/1.c)
+2|[program to ask user to enter 5 numbers and store them in array and display 1)all elements in array 2)sum of first and last element of array 3)product of 2nd and 3rd element of array](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/2.c)
+3|[program to show memory address of array elements](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/3.c)
+4|[program to take ten numbers from user and store them in an array and finally display the smallest number among them](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/4.c)
+5|[program to take some numbers from user and display them in ascending order (use bubble sort)](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/5.c)
+6|[program to take some numbers from user and display them in descending order (use bubble sort)](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/6.c)
+7|[program to take elements of matrix(2d array) and display them](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/7.c)
+8|[program to take two matrices from user and display their sum](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/8.c)
+9|[program to take 3*3 matrix from user and display the diagonal element](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/9.c)
+10|[program to take matrix from user and display its transpose](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/10.c)
+11|[program to take two matrices from user and calculate their product](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/11.c)
+<hr/>
+
+
+
+<hr/>
 Prepared by - Bibek Angdembe <br/>
 ✋Conncet to me through [Facebook](https://www.facebook.com/bibek.angdembay)
