@@ -1,4 +1,3 @@
-
 //take three numbers and disolay the smallest using nested if
 #include <stdio.h>
 int main(){

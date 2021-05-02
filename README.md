@@ -60,7 +60,7 @@ S.N | PROGRAMS
 6|[program to demostrate bitwise logical operator](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/3\)Operator%20and%20expressions/6.c)
 7|[program to demostrate shift operators](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/3\)Operator%20and%20expressions/7.c)
 8|[program to demostrate one's compliment and size of operators](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/3\)Operator%20and%20expressions/8.c)
-9|[/program to demostrate operator precedence and associativity in c](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/3\)Operator%20and%20expressions/9.c)
+9|[program to demostrate operator precedence and associativity in c](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/3\)Operator%20and%20expressions/9.c)
 10|[program to show implict type conversion (type casting)](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/3\)Operator%20and%20expressions/10.c)
 11|[program to show implict type conversion (type casting)](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/3\)Operator%20and%20expressions/11.c)
 <hr/>
