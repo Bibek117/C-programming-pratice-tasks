@@ -10,5 +10,4 @@ int main(){
 	printf("College: NCIT \n");
 	printf("Skills:\tc,\tc++,\tJS,\tHTML,CSS,PHP");
 	return 0;
-
-	}
+} 

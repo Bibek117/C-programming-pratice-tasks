@@ -12,6 +12,7 @@
 >- [x] Operators and expression
 >- [x] Control statements
 >- [x] Arrays
+>- [x] Strings
 >- [x] Function
 >- [x] Pointers
 >- [x] Structure and Union
