@@ -136,11 +136,11 @@ S.N | PROGRAMS
 8|[program to take two matrices from user and display their sum](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/8.c)
 9|[program to take 3*3 matrix from user and display the diagonal element](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/9.c)
 10|[program to take matrix from user and display its transpose](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/10.c)
-11|[program to take two matrices from user and calculate their product](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/11.c)
-<hr/>
+11[program to take two matrices from user and calculate their product](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/11.c)
 
 
 
 <hr/>
+
 Prepared by - Bibek Angdembe <br/>
 ✋Conncet to me through [Facebook](https://www.facebook.com/bibek.angdembay)
