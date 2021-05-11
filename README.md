@@ -139,6 +139,35 @@ S.N | PROGRAMS
 11|[program to take two matrices from user and calculate their product](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/5\)Arrays/11.c)
 <hr/>
 
+#### `Strings`
+S.N | PROGRAMS
+----|---------
+1|[program to read string using scanf](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/6\)Strings/1.c)
+2|[program to read using scanf "%\[character\]" and "%\[^character\]"](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/6\)Strings/2.c)
+3|[program to calculate the length of string without using library functions](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/6\)Strings/3.c)
+4|[program to read length of string using strlen function](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/6\)Strings/4.c)
+5|[program to read  a string from keyboard (until enter key) and count the numbers of vowels,spaces,semicolons ,consonents and commas in that string](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/6\)Strings/5.c)
+6|[program to copy a string from one variable to another without using library function](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/6\)Strings/6.c)
+7|[program to copy string using strcpy](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/6\)Strings/7.c)
+8|[program to concat string without using library function](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/6\)Strings/8.c)
+9|[program to concat using strcat function](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/6\)Strings/9.c)
+10|[program to comapre two strings without using library function](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/6\)Strings/10.c)
+11|[program to compare two strings using strcmp function](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/6\)Strings/11.c)
+<hr/>
+
+#### `Functions`
+S.N | PROGRAMS
+----|---------
+1|[program to  add,subtract,multiply and divide two numbers using function](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/7\)Functions/1.c)
+2|[program to write two functions rect_area() and circ_area() which compute area of rectangle and circle respectively (required : first function return type must be void and second float)](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/7\)Functions/2.c)
+3|[program to write a function that calculates simple interest by taking principle ,time and rate as parameters ](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/7\)Functions/3.c)
+4|[program to calculate factorial of given number using recursive function](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/7\)Functions/4.c)
+5|[program to program to find a^b using recursion](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/7\)Functions/5.c)
+6|[program to program to find fibonnaci series upto nth term using recursion](https://github.com/Bibek117/C-programming-pratice-tasks/blob/main/Programs/7\)Functions/6.c)
+<hr/>
+
+
+<hr/>
 
 Prepared by - Bibek Angdembe <br/>
 ✋Conncet to me through [Facebook](https://www.facebook.com/bibek.angdembay)
