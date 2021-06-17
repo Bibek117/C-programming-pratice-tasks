@@ -1,7 +1,7 @@
 //program to calculate factorial of given number using recursive function
 #include <stdio.h>
  long int fact(int n){
-	if(n==1){
+	if(n==0){
 	return 1;
 	}else{
 		return (n*fact(n-1));
