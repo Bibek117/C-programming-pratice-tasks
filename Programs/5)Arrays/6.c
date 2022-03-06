@@ -1,4 +1,4 @@
-//program to take some numbers from user and display them in descending order (use bubble sort)
+//program to take some numbers from user and display them in descending order (use selection sort)
 #include <stdio.h>
 int main(){
 	int n[100],i,j,swap,a;
